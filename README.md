@@ -55,11 +55,11 @@ Once configured, you can launch OpenClaw using the following commands:
 
 Standard Launch:
 ```
-openclaw launch
+ollama launch
 ```
 Launch with Configuration Menu:
 ```
-openclaw launch --config
+ollama launch --config
 ```
 Openclaw Dashboard:
 ```
