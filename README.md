@@ -34,6 +34,11 @@ In a new Termux session, pull the desired model. For example:
 ```
 ollama pull glm-5:cloud
 ```
+Run model 
+```
+ollama run glm-5:cloud
+```
+
 3. Install OpenClaw
 Install the OpenClaw CLI globally using npm:
 
