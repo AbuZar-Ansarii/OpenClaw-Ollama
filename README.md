@@ -11,6 +11,7 @@ Node.js (Required for OpenClaw).
 A stable internet connection for the initial setup.
 
 ## Please visit for The Beginner's Guide
+## Run this repo command till the networks setup commands.
 Repo Link - https://github.com/AbuZar-Ansarii/Clawbot.git
 
 🚀 Installation & Setup
