@@ -56,6 +56,11 @@ Launch with Configuration Menu:
 ```
 openclaw launch --config
 ```
+Openclaw Dashboard:
+```
+http://127.0.0.1:18789
+```
+
 
 💡 Troubleshooting
 Memory Issues: Running LLMs on mobile can be resource-intensive. Ensure you have at least 4GB of free RAM.
