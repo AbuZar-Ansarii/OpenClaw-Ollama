@@ -19,7 +19,7 @@ Node.js (Required for OpenClaw).
 ## Run this repo commands till the networks setup commands to proceed with ollama setup.
 Repo Link - https://github.com/AbuZar-Ansarii/Clawbot.git
 
-## 🚀 Installation & Setup with Ollama
+# 🚀 Installation & Setup with Ollama
 Follow these steps in order to get your local environment running.
 
 1. Install and Start Ollama
