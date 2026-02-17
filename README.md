@@ -1,8 +1,12 @@
-# OpenClaw with Ollama(Run Openclaw for free)
+# Run OpenClaw with Ollama on Phone(0$ setup)
 
 ## 🦞 OpenClaw with Ollama (Android/Termux)
-
 Run a powerful, local AI agent on your Android device for free using Termux, Ollama, and OpenClaw.
+<p align="center">
+  <img src= ollama with openclaw.png width="45%" />
+  <img src= openclaw on phone.png width="45%" />
+</p>
+
 
 📋 Prerequisites
 Before starting, ensure you have the following installed on your Android device:
