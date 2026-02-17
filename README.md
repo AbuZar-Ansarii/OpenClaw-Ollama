@@ -3,8 +3,7 @@
 Run a powerful, local AI agent on your Android device for free using Termux, Ollama, and OpenClaw.
 ---
 <p align="center">
-  <img src=  ollama-with-openclaw.jpeg width="45%" />
-  <img src=  openclaw-on-phone.jpeg width="45%" />
+  <img src=  ollama-with-openclaw.jpeg width="95%" />
 </p>
 ---
 
