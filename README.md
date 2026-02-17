@@ -8,14 +8,13 @@ Run a powerful, local AI agent on your Android device for free using Termux, Oll
 ---
 
 ## 📋 Prerequisites
-Watch this video - https://youtu.be/1pLPBgseffo?si=O_q3-8MvEsv7u28l 
+## if you haven't installed Openclaw before, please wath this video first.
+Video link - https://youtu.be/1pLPBgseffo?si=O_q3-8MvEsv7u28l
+
+
 Before starting, ensure you have the following installed on your Android device:
 Termux (Recommended version from F-Droid or GitHub).
 Node.js (Required for OpenClaw).
-
-
-## if you haven't installed Openclaw before, please wath this video first.
-Video link - https://youtu.be/1pLPBgseffo?si=O_q3-8MvEsv7u28l
 
 ## Run this repo commands till the networks setup commands to proceed with ollama setup.
 Repo Link - https://github.com/AbuZar-Ansarii/Clawbot.git
